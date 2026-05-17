@@ -1,0 +1,42 @@
+# Environnement virtuel
+venv/
+env/
+.env/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Données et modèles (trop lourds pour Git)
+data/
+datasets/
+*.pth
+*.pt
+*.h5
+*.pkl
+*.npy
+*.npz
+embeddings/
+indexes/
+faiss_index/
+
+# Logs et résultats
+logs/
+runs/
+outputs/
+results/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Variables d'environnement
+.env
