@@ -21,12 +21,12 @@ datasets/
 embeddings/
 indexes/
 faiss_index/
+models/
 
 # Logs et résultats
 logs/
 runs/
 outputs/
-results/
 *.log
 
 # OS
