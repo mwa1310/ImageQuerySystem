@@ -112,13 +112,5 @@ Ouvre `http://127.0.0.1:7860` dans le navigateur.
 
 ---
 
-## Résultats visuels
-
-![Distribution des classes](results/distribution_classes.png)
-![t-SNE comparaison encodeurs](results/tsne_comparaison.png)
-![Recherche exemple](results/recherche_exemple.png)
-![Métriques évaluation](results/metriques_evaluation.png)
-
-
 ## Auteur
 MEZAGO Wilfried Aymar - Ecole Nationale Supérieure Polytechnique de Yaoundé 1 - 2025/2026.
