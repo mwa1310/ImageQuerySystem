@@ -83,7 +83,7 @@ Trois approches comparées via t-SNE :
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<ton-username>/ImageQuerySystem.git
+git clone https://github.com/mwa1310/ImageQuerySystem.git
 cd ImageQuerySystem
 
 # 2. Créer et activer l'environnement virtuel
